@@ -11,7 +11,7 @@ Aim : The goal of this project is to perform data analytics on Uber data using v
 * GCP (cloud)
 * Google Storage (Simple Storage Service)
 * Compute Instance
-* BigCuery
+* BigQuery
 * Mage
 * Looker Studio
 
